@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-auth-4e66f": {
+      "hosting": {
+        "auth": [
+          "angular-auth-4e66f"
+        ]
+      }
+    }
+  }
+}
